@@ -1,0 +1,201 @@
+Property_ID,Type,Area_SqFt,Bedrooms,Bathrooms,Price_USD,Location,Year_Built,Status,Agent_ID
+PROP-001,Duplex,4243,5,1,2254260,Beachfront,2018,Sold,AGT-110
+PROP-002,Penthouse,1995,1,5,1629297,Beachfront,2018,Under Offer,AGT-102
+PROP-003,Townhouse,3804,2,4,1259771,Downtown,2019,Sold,AGT-106
+PROP-004,Penthouse,4263,2,4,1185244,Green Valley,2005,Under Offer,AGT-105
+PROP-005,Penthouse,2353,1,4,2482357,Financial District,2008,Under Offer,AGT-112
+PROP-006,Villa,1791,2,3,2327712,Uptown,2007,Available,AGT-113
+PROP-007,Townhouse,4081,6,5,1147172,Beachfront,1990,Pending,AGT-112
+PROP-008,Townhouse,3957,6,4,2345131,Downtown,2003,Sold,AGT-105
+PROP-009,Townhouse,2136,1,3,1298425,Uptown,1991,Available,AGT-113
+PROP-010,Penthouse,4196,5,2,2945741,Green Valley,2017,Sold,AGT-101
+PROP-011,Duplex,3499,5,2,151745,Financial District,2019,Under Offer,AGT-102
+PROP-012,Townhouse,3652,1,3,2194157,Green Valley,1993,Pending,AGT-108
+PROP-013,Studio,1198,5,3,191865,Beachfront,1990,Sold,AGT-113
+PROP-014,Penthouse,2660,5,5,1361466,Uptown,1997,Sold,AGT-114
+PROP-015,Villa,4597,6,5,1172200,Uptown,2018,Under Offer,AGT-113
+PROP-016,Duplex,1354,5,2,2220473,Uptown,1992,Sold,AGT-103
+PROP-017,Studio,3974,3,4,2600856,Beachfront,2021,Sold,AGT-110
+PROP-018,Studio,2207,4,2,3006158,Beachfront,1999,Under Offer,AGT-103
+PROP-019,Villa,3277,2,4,1322869,Green Valley,1999,Available,AGT-108
+PROP-020,Duplex,2233,3,4,3125134,Suburbs,2008,Under Offer,AGT-108
+PROP-021,Penthouse,4010,5,5,2383869,Green Valley,2023,Available,AGT-102
+PROP-022,Apartment,702,6,1,3225354,Financial District,2022,Pending,AGT-108
+PROP-023,Duplex,3755,1,1,1529551,Downtown,2012,Available,AGT-111
+PROP-024,Villa,4718,5,3,2381020,Uptown,2017,Available,AGT-113
+PROP-025,Studio,4996,6,5,2856944,Suburbs,2021,Pending,AGT-113
+PROP-026,Penthouse,1266,4,4,2292409,Downtown,1996,Available,AGT-101
+PROP-027,Duplex,4889,5,1,688579,Suburbs,2018,Under Offer,AGT-106
+PROP-028,Apartment,2827,1,4,2407328,Green Valley,1997,Available,AGT-108
+PROP-029,Apartment,3431,6,1,2387623,Beachfront,1990,Pending,AGT-103
+PROP-030,Townhouse,697,6,1,1014032,Uptown,1992,Under Offer,AGT-108
+PROP-031,Townhouse,2430,6,1,2670082,Green Valley,2013,Pending,AGT-112
+PROP-032,Villa,4082,4,5,1667438,Downtown,2012,Pending,AGT-101
+PROP-033,Duplex,1108,5,2,2066382,Downtown,1997,Sold,AGT-111
+PROP-034,Duplex,3772,4,4,1624350,Downtown,1992,Sold,AGT-111
+PROP-035,Studio,1647,2,5,1017559,Downtown,2022,Pending,AGT-109
+PROP-036,Studio,4782,2,5,735605,Downtown,2017,Pending,AGT-113
+PROP-037,Studio,3897,5,5,3385517,Suburbs,1997,Pending,AGT-111
+PROP-038,Townhouse,3011,4,5,489593,Green Valley,2023,Sold,AGT-113
+PROP-039,Duplex,2294,1,5,915131,Uptown,2024,Sold,AGT-109
+PROP-040,Duplex,1159,6,3,3319414,Beachfront,2021,Available,AGT-105
+PROP-041,Apartment,3311,6,4,167661,Beachfront,2013,Available,AGT-110
+PROP-042,Townhouse,1869,5,5,2765687,Green Valley,2003,Pending,AGT-104
+PROP-043,Penthouse,2486,2,4,3490849,Green Valley,2021,Under Offer,AGT-115
+PROP-044,Townhouse,646,2,3,1820684,Beachfront,2005,Under Offer,AGT-111
+PROP-045,Penthouse,3719,6,3,2463917,Beachfront,1993,Sold,AGT-106
+PROP-046,Apartment,3411,5,4,1294682,Suburbs,2010,Sold,AGT-112
+PROP-047,Villa,2234,4,1,2178007,Financial District,2003,Sold,AGT-107
+PROP-048,Duplex,2343,2,2,1407506,Uptown,2020,Pending,AGT-105
+PROP-049,Apartment,988,4,1,2071206,Downtown,2007,Under Offer,AGT-111
+PROP-050,Duplex,3476,2,1,2857634,Financial District,1996,Available,AGT-113
+PROP-051,Studio,2459,2,1,3001614,Green Valley,1999,Pending,AGT-110
+PROP-052,Villa,2885,3,5,3066422,Beachfront,1996,Available,AGT-109
+PROP-053,Villa,3419,2,3,2646026,Financial District,2022,Available,AGT-103
+PROP-054,Apartment,2302,1,1,953499,Uptown,2012,Pending,AGT-115
+PROP-055,Villa,4561,5,3,3221132,Green Valley,2010,Available,AGT-107
+PROP-056,Penthouse,3869,5,4,218033,Downtown,2008,Under Offer,AGT-110
+PROP-057,Villa,762,4,2,730265,Downtown,2008,Available,AGT-110
+PROP-058,Duplex,1123,2,4,2810309,Uptown,2025,Under Offer,AGT-111
+PROP-059,Duplex,1516,1,4,1778050,Uptown,2018,Under Offer,AGT-105
+PROP-060,Duplex,4143,4,5,3018258,Beachfront,2007,Under Offer,AGT-114
+PROP-061,Duplex,2549,3,2,1315502,Downtown,1991,Sold,AGT-107
+PROP-062,Penthouse,4223,4,4,1719135,Green Valley,1990,Available,AGT-115
+PROP-063,Townhouse,3608,4,4,3057272,Financial District,1994,Pending,AGT-102
+PROP-064,Studio,4590,2,2,531734,Green Valley,2009,Pending,AGT-104
+PROP-065,Apartment,2556,3,2,1521796,Suburbs,2000,Available,AGT-102
+PROP-066,Duplex,3670,4,4,2862779,Suburbs,1991,Sold,AGT-114
+PROP-067,Villa,2182,1,2,2419049,Uptown,1992,Sold,AGT-113
+PROP-068,Duplex,2755,1,4,2198214,Beachfront,2012,Under Offer,AGT-113
+PROP-069,Villa,1654,5,4,3493464,Suburbs,2001,Available,AGT-112
+PROP-070,Studio,4999,3,5,2292614,Downtown,2009,Available,AGT-107
+PROP-071,Studio,3691,3,1,1548021,Green Valley,1994,Pending,AGT-102
+PROP-072,Studio,2196,5,4,1598585,Green Valley,2019,Available,AGT-113
+PROP-073,Villa,4491,4,3,870173,Uptown,1998,Sold,AGT-114
+PROP-074,Duplex,2148,3,1,2769355,Financial District,2023,Available,AGT-111
+PROP-075,Studio,1945,1,1,758956,Uptown,2024,Pending,AGT-101
+PROP-076,Penthouse,4699,1,1,1547960,Financial District,2011,Under Offer,AGT-109
+PROP-077,Villa,4423,2,5,1780963,Uptown,2013,Pending,AGT-101
+PROP-078,Villa,753,3,4,2729001,Uptown,2006,Pending,AGT-108
+PROP-079,Duplex,3683,4,5,567010,Uptown,1999,Under Offer,AGT-115
+PROP-080,Villa,3057,5,4,1755016,Financial District,2019,Pending,AGT-102
+PROP-081,Villa,598,5,5,1797900,Financial District,2012,Pending,AGT-112
+PROP-082,Studio,2700,4,5,486193,Uptown,2021,Available,AGT-108
+PROP-083,Duplex,3461,6,3,126734,Suburbs,2006,Available,AGT-113
+PROP-084,Studio,4933,2,5,1023875,Beachfront,2006,Under Offer,AGT-103
+PROP-085,Studio,4277,5,2,2223221,Beachfront,2003,Available,AGT-106
+PROP-086,Duplex,3369,3,3,637198,Beachfront,1998,Available,AGT-103
+PROP-087,Apartment,3734,2,5,1484199,Financial District,1991,Pending,AGT-114
+PROP-088,Studio,4291,3,1,2668103,Financial District,2014,Sold,AGT-107
+PROP-089,Penthouse,1456,1,2,181264,Suburbs,1998,Available,AGT-110
+PROP-090,Penthouse,4567,2,2,123275,Beachfront,2011,Sold,AGT-109
+PROP-091,Villa,660,5,2,2793714,Beachfront,1993,Available,AGT-102
+PROP-092,Penthouse,4993,2,3,2560072,Uptown,2015,Available,AGT-115
+PROP-093,Villa,1800,2,5,2388228,Financial District,2018,Under Offer,AGT-112
+PROP-094,Apartment,4487,2,5,3439781,Beachfront,2023,Under Offer,AGT-112
+PROP-095,Duplex,2027,6,1,1102163,Green Valley,2012,Under Offer,AGT-115
+PROP-096,Duplex,1718,2,1,1858489,Suburbs,2000,Sold,AGT-114
+PROP-097,Duplex,4996,3,2,672735,Green Valley,1995,Pending,AGT-105
+PROP-098,Penthouse,3604,1,1,2100609,Green Valley,2007,Available,AGT-113
+PROP-099,Apartment,3235,4,3,1012826,Suburbs,2010,Available,AGT-106
+PROP-100,Penthouse,1454,2,5,2797143,Green Valley,2025,Available,AGT-104
+PROP-101,Penthouse,3946,5,2,962522,Beachfront,2023,Sold,AGT-104
+PROP-102,Apartment,1545,2,1,903692,Financial District,2006,Under Offer,AGT-104
+PROP-103,Apartment,2193,5,3,1261157,Suburbs,2014,Pending,AGT-102
+PROP-104,Apartment,3936,3,3,1414532,Uptown,2001,Sold,AGT-104
+PROP-105,Apartment,1062,5,1,521240,Green Valley,2012,Under Offer,AGT-111
+PROP-106,Duplex,2985,4,5,3099732,Suburbs,2011,Sold,AGT-101
+PROP-107,Townhouse,3854,1,1,1044789,Downtown,2010,Pending,AGT-112
+PROP-108,Townhouse,725,5,2,3207092,Downtown,2016,Under Offer,AGT-106
+PROP-109,Apartment,1459,5,1,2313573,Financial District,2020,Sold,AGT-101
+PROP-110,Townhouse,3567,1,3,625893,Beachfront,1995,Pending,AGT-110
+PROP-111,Townhouse,1315,4,1,2269455,Financial District,2016,Available,AGT-106
+PROP-112,Apartment,3620,2,5,2355363,Financial District,2023,Pending,AGT-101
+PROP-113,Townhouse,516,5,4,1094653,Financial District,2001,Available,AGT-106
+PROP-114,Penthouse,1743,1,1,287210,Financial District,1996,Sold,AGT-110
+PROP-115,Villa,2705,3,5,962557,Uptown,1999,Under Offer,AGT-108
+PROP-116,Villa,3024,1,5,2342142,Uptown,2006,Under Offer,AGT-111
+PROP-117,Apartment,1569,3,3,1307094,Suburbs,2015,Sold,AGT-102
+PROP-118,Duplex,3944,4,5,2321192,Downtown,2010,Under Offer,AGT-102
+PROP-119,Apartment,3065,2,5,768406,Financial District,2017,Under Offer,AGT-114
+PROP-120,Duplex,1560,1,5,518034,Suburbs,1991,Available,AGT-115
+PROP-121,Villa,2827,6,5,2953406,Downtown,1990,Sold,AGT-113
+PROP-122,Apartment,3920,5,2,1133255,Green Valley,2025,Pending,AGT-112
+PROP-123,Studio,801,4,2,2987908,Beachfront,2015,Available,AGT-104
+PROP-124,Penthouse,4776,1,3,895543,Uptown,2018,Sold,AGT-111
+PROP-125,Townhouse,1106,5,1,3152766,Green Valley,2010,Available,AGT-103
+PROP-126,Duplex,3670,1,5,640677,Downtown,2000,Pending,AGT-104
+PROP-127,Studio,1199,3,1,1795041,Green Valley,2000,Pending,AGT-113
+PROP-128,Townhouse,1639,1,1,3194235,Beachfront,2025,Sold,AGT-112
+PROP-129,Townhouse,690,6,3,1832682,Downtown,2024,Pending,AGT-107
+PROP-130,Apartment,2800,1,5,1271459,Green Valley,2023,Available,AGT-113
+PROP-131,Townhouse,1480,1,5,1891822,Uptown,2013,Pending,AGT-111
+PROP-132,Penthouse,3475,6,4,2959653,Uptown,2011,Available,AGT-101
+PROP-133,Studio,1684,4,1,2066197,Suburbs,1994,Available,AGT-106
+PROP-134,Townhouse,3827,1,1,487952,Green Valley,2022,Pending,AGT-115
+PROP-135,Apartment,3894,6,2,2309373,Financial District,2025,Sold,AGT-115
+PROP-136,Penthouse,627,5,4,1130117,Green Valley,2009,Under Offer,AGT-103
+PROP-137,Villa,2565,3,2,2996818,Downtown,2008,Pending,AGT-111
+PROP-138,Studio,2316,3,2,2457821,Downtown,2024,Available,AGT-110
+PROP-139,Townhouse,1069,1,2,2956376,Green Valley,2006,Available,AGT-107
+PROP-140,Apartment,2395,4,3,3037025,Beachfront,2023,Pending,AGT-110
+PROP-141,Villa,3233,4,3,625134,Uptown,1998,Sold,AGT-102
+PROP-142,Villa,4363,5,2,1489959,Downtown,2015,Sold,AGT-114
+PROP-143,Duplex,4514,1,4,344761,Uptown,1991,Available,AGT-102
+PROP-144,Penthouse,3401,3,1,3030098,Downtown,1998,Available,AGT-113
+PROP-145,Townhouse,2186,4,4,3071820,Suburbs,1998,Sold,AGT-104
+PROP-146,Apartment,3509,1,5,2334693,Financial District,2006,Under Offer,AGT-101
+PROP-147,Duplex,654,4,3,1047609,Downtown,1990,Pending,AGT-103
+PROP-148,Penthouse,3037,6,1,1977109,Uptown,2014,Available,AGT-113
+PROP-149,Duplex,1909,4,1,164323,Suburbs,2014,Available,AGT-109
+PROP-150,Studio,4557,3,5,2813362,Downtown,2024,Sold,AGT-107
+PROP-151,Penthouse,1284,2,5,1337715,Beachfront,1992,Pending,AGT-115
+PROP-152,Penthouse,3675,5,2,3426176,Financial District,2019,Sold,AGT-107
+PROP-153,Townhouse,4841,5,3,1054480,Downtown,2023,Pending,AGT-113
+PROP-154,Penthouse,3306,3,3,2432811,Suburbs,2001,Pending,AGT-113
+PROP-155,Duplex,1037,4,4,2586830,Beachfront,2008,Pending,AGT-111
+PROP-156,Penthouse,2341,1,2,954016,Green Valley,2006,Available,AGT-104
+PROP-157,Townhouse,2955,4,2,1253113,Suburbs,1999,Under Offer,AGT-102
+PROP-158,Townhouse,1024,3,2,964909,Suburbs,2001,Sold,AGT-115
+PROP-159,Studio,3450,5,2,2439135,Beachfront,2005,Under Offer,AGT-114
+PROP-160,Duplex,4631,4,3,1715397,Suburbs,2013,Sold,AGT-104
+PROP-161,Villa,4615,5,3,888260,Beachfront,2008,Pending,AGT-106
+PROP-162,Villa,2868,1,2,1150493,Downtown,1997,Available,AGT-111
+PROP-163,Penthouse,4347,5,4,382762,Beachfront,2020,Under Offer,AGT-111
+PROP-164,Studio,4995,5,1,1705118,Beachfront,2010,Available,AGT-103
+PROP-165,Apartment,3201,2,1,2983427,Financial District,2006,Sold,AGT-101
+PROP-166,Penthouse,1471,2,4,1516012,Beachfront,2012,Available,AGT-114
+PROP-167,Studio,1666,6,2,1658506,Beachfront,2005,Available,AGT-112
+PROP-168,Duplex,3274,2,3,671650,Green Valley,1995,Under Offer,AGT-108
+PROP-169,Duplex,2482,5,1,382272,Downtown,1997,Pending,AGT-112
+PROP-170,Duplex,1353,3,5,485925,Financial District,2014,Available,AGT-113
+PROP-171,Duplex,4646,5,5,2963793,Green Valley,2007,Pending,AGT-105
+PROP-172,Duplex,4236,3,4,814743,Uptown,2014,Sold,AGT-115
+PROP-173,Studio,4269,3,2,2786985,Downtown,2001,Available,AGT-105
+PROP-174,Studio,1074,2,1,3327908,Downtown,2004,Under Offer,AGT-111
+PROP-175,Townhouse,3761,4,2,503081,Uptown,2015,Sold,AGT-104
+PROP-176,Villa,1648,1,1,3116875,Beachfront,2015,Sold,AGT-106
+PROP-177,Duplex,2215,2,4,2499105,Green Valley,2021,Under Offer,AGT-103
+PROP-178,Apartment,4354,2,4,478892,Suburbs,1999,Available,AGT-109
+PROP-179,Studio,2991,4,5,105287,Financial District,2005,Available,AGT-105
+PROP-180,Apartment,3160,1,2,1406241,Suburbs,1996,Sold,AGT-103
+PROP-181,Apartment,3624,5,5,3254240,Uptown,2006,Available,AGT-111
+PROP-182,Apartment,3551,6,2,756702,Downtown,2012,Pending,AGT-101
+PROP-183,Townhouse,504,6,5,3354600,Downtown,2015,Under Offer,AGT-110
+PROP-184,Studio,1376,5,3,2085296,Financial District,2010,Pending,AGT-112
+PROP-185,Apartment,1491,2,3,2183592,Downtown,2011,Available,AGT-106
+PROP-186,Duplex,4642,1,3,2290222,Downtown,1996,Sold,AGT-115
+PROP-187,Penthouse,4864,2,3,2819269,Financial District,2003,Under Offer,AGT-102
+PROP-188,Apartment,4965,3,1,3141270,Green Valley,2004,Available,AGT-113
+PROP-189,Townhouse,1135,2,3,1578050,Green Valley,1996,Available,AGT-103
+PROP-190,Studio,2193,2,4,1111293,Financial District,1998,Sold,AGT-101
+PROP-191,Townhouse,2182,5,4,1190654,Uptown,1997,Sold,AGT-109
+PROP-192,Apartment,619,5,1,707812,Downtown,2012,Pending,AGT-108
+PROP-193,Studio,1330,5,3,2424797,Downtown,2018,Under Offer,AGT-112
+PROP-194,Penthouse,4175,6,3,886667,Uptown,2007,Under Offer,AGT-102
+PROP-195,Apartment,1869,3,3,1453649,Green Valley,2020,Sold,AGT-115
+PROP-196,Townhouse,1240,5,5,1275885,Beachfront,2019,Pending,AGT-112
+PROP-197,Villa,616,1,2,1478164,Beachfront,2024,Under Offer,AGT-111
+PROP-198,Duplex,3338,6,5,1812503,Beachfront,2007,Sold,AGT-108
+PROP-199,Townhouse,1650,4,2,3085418,Green Valley,2006,Available,AGT-112
+PROP-200,Studio,2431,1,3,2543851,Green Valley,2003,Under Offer,AGT-114
